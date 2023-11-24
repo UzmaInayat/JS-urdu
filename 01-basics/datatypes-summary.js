@@ -35,5 +35,17 @@ const myFunction = function(){
     console.log("Hello world");
 }
 
-console.log(typeof bigNumber);
-console.log(typeof scoreValue);
+// console.log(typeof bigNumber);
+// console.log(typeof scoreValue);
+
+
+
+// ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+// two type of memory stack and heap
+// stack( used in primitive) heap( used in non-primitive)
+
+let myYouTubeChannel = "uzmia@gmail.com"
+
+let anotherName = myYouTubeChannel
+
+console.log(anotherName);
