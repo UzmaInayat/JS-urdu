@@ -36,3 +36,4 @@ const myFunction = function(){
 }
 
 console.log(typeof bigNumber);
+console.log(typeof scoreValue);
