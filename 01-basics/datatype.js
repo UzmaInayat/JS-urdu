@@ -32,6 +32,7 @@ let myObj = {
 }
 // can also store in Var
 const myFunction = function(){
+
     console.log("Hello world");
 }
 
