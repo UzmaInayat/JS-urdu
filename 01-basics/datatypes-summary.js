@@ -12,6 +12,7 @@ const outsideTemp = null
 let userEmail;
 const id = Symbol('123')
 const anotherId = symbol('123')
+
 console.log(id === anotherId);
 
 const bigNumber = 23668439n
